@@ -24,7 +24,7 @@
 
 ### 1. 获取配置
 
-打开 [配置生成器](https://bthawake.github.io/DouYinspark-ALL/) 或本地打开 `docs/index.html`，填写：
+打开 [配置生成器](https://bthawake.github.io/DouYinSpark-ALL/) 或本地打开 `docs/index.html`，填写：
 
 - 消息模板、一言类型等基础设置
 - 账号 cookies（需手动从浏览器导出，[教程](docs/配置生成器使用.md)）
