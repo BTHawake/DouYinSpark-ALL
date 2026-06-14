@@ -22,7 +22,7 @@ const app = createApp({
       MESSAGE_TEMPLATE:
         "[API]",
       HITOKOTO_TYPES: ["文学", "影视", "诗词", "哲学"],
-      MATCH_MODE: "nickname",
+      MATCH_MODE: "short_id",
       GROUP_MATCH_MODE: "name",
       BROWSER_TIMEOUT: 120000,
       FRIEND_LIST_WAIT_TIME: 2000,
