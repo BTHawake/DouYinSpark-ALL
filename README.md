@@ -6,6 +6,8 @@
 ![Playwright](https://img.shields.io/badge/Playwright-%E2%9C%94-green?logo=playwright)
 ![chrome-headless-shell](https://img.shields.io/badge/chrome--headless--shell-%E2%9C%94-brightgreen?logo=googlechrome)
 
+由项目[DouYinSparkFlow](https://github.com/2061360308/DouYinSparkFlow)修改而来
+
 **抖音火花自动续火脚本** —— 自动给你的抖音好友和群聊发送消息，保持火花不断。
 
 ## 特性
